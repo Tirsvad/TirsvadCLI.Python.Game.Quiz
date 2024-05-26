@@ -1,0 +1,1 @@
+QuizEngine4Trivia-TirsvadCLI>=0.0.5
