@@ -49,6 +49,12 @@ running follow these simple example steps.
 
 You have python 3 installed.
 
+Python module QuizEngine4Trivia-TirsvadCLI
+```console
+pip install QuizEngine4Trivia-TirsvadCLI
+```
+
+
 ## Installation
 
 In a terminal do following
